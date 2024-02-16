@@ -1,4 +1,4 @@
-# StataGMM
+# Generalized Method of Moments - Stata
 Stata Code - Generalized Method of Moments
  /Modelo 1 - Peridos antes das Crises: 1997-2006/
  
